@@ -1,0 +1,231 @@
+/*
+     http://css-tricks.com
+*/
+
+/***************************
+ Basic Page Styles
+***************************/
+
+
+/*
+body {
+    font: 15px/2 Georgia, serif;
+    background: #999;
+}
+
+
+*/
+
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    font-family: verdana, sans-serif;
+    font-size: 0.85em;
+    /*background: #eac657;*/
+}
+
+#page-wrap {
+    min-height: 100%;
+    max-width: 700px;
+    min-width: 500px;
+    margin: 0 auto;
+    position: relative;
+}
+
+
+h3 {
+    /*float: left;*/
+    color: orange;
+    /*margin-left: 5%;*/
+}
+
+h4 {
+    /*float: left;*/
+    color: #eac657;
+    /*margin-left: 5%;*/
+}
+
+
+
+li, p {
+    font-size: 0.85em;
+    color: #888;
+    /*
+    font-weight: bold;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+    */
+}
+
+a {
+    font-size: 0.85em;
+    color: #222;
+    text-decoration: none;
+}
+
+a:hover, a:focus{
+    color: d2b14e;
+    backgound: #000;
+    border-bottom: 1px dotted black;
+    border-top: 1px dotted black;
+    /*font-weight: bold;*/
+    border-bottom-style: solid;
+    border-top-style: solid;
+}
+
+
+/***************************
+ Header
+***************************/
+
+#header {
+    max-width: 700px;
+    min-width: 500px;
+    background: #222;
+    margin: 20px auto ;
+}
+
+#header p {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: -30px;
+}
+
+h1{
+    color: #eac657;
+    padding-top: -10px;
+    padding: 10px;
+}
+
+
+
+/*
+h1 {
+    float: left;
+    margin: 0;
+    text-indent: -20000px;
+    width: 300px;
+    height:66px;
+    background: url('../images/cam_logo_2.jpg') top left no-repeat;
+}
+*/
+
+
+
+/***************************
+ Content
+***************************/
+
+/***************************
+ Main-sidebar
+***************************/
+
+
+#main-sidebar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 240px;
+    bottom: 0;
+    /*background: #eee;*/
+    padding: 0 10 20 20 px;
+}
+
+
+img {
+    max-width: 80%;
+}
+
+#my_pic {
+    float: left;
+    margin-bottom: 10px;
+}
+
+
+#nav, #ul-news {
+
+    margin-left: 20px;
+    margin-top: -15px;
+    list-style: none; /*remove the bullet point*/
+    /*float: left;*/
+
+}
+
+#nav a {
+    font-size: medium;
+    color: #eac657;
+}
+
+
+
+
+/***************************
+ Main-content
+***************************/
+
+#content {
+    padding: 0 0 0 20px;
+    background: white;
+}
+
+#content a {
+    font-size: 1.2em;
+    color: #444;
+    text-decoration: none;
+}
+
+
+#main-content {
+    padding: 0 0 0 230px;
+    background: white;
+}
+
+#quote {
+    font-size: 1.3em;
+    margin: 20px 0px;
+    float: left;
+}
+
+#quote p {
+    background: #d2b14e;
+    padding: 20px;
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+
+
+/***************************
+ Footer
+***************************/
+
+
+#footer {
+    max-width: 700px;
+    min-width: 500px;
+    background: #222;
+    margin: 0 auto 15px;
+    position: relative;
+    margin-top: -120px;
+    height: 25px;
+}
+
+#footer p {
+    padding: 10px;
+    color: white;
+}
+
+#footer a {
+    color: white;
+    border-bottom: 1px dotted white;
+    text-decoration: none;
+}
+
+#footer a:hover {
+    border-bottom-style: solid;
+}
