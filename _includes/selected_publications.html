@@ -1,0 +1,21 @@
+
+<!-- Publications Start -->
+
+<section id="{{ page.section-type }}" class="container content-section text-center">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      {{ page.content | markdownify }}
+
+      {% for pub in site.data.selected_publications %}
+
+          {% include publication-list.html%}
+          
+        {% endfor %}
+
+      <h4><a href="{{site.baseurl}}/publication/">View full list of publications</a></h4>
+
+    </div>
+  </div>
+</section>
+
+<!-- Publications End -->
