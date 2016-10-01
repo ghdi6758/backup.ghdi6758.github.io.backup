@@ -1,10 +1,9 @@
- - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, Bernard J. Jansen"
+ - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak, Bernard J. Jansen"
     title: "Automatic Generation of Personas Using YouTube Social Media Data"
     conference: "HICSS 2017, Hawaii, USA"
     date: "January 2017"
     url_pdf: "https://www.dropbox.com/s/64iq9l4yhh6apnh/%28p%29%2020170104-hicss2017-apg.pdf?dl=0"
     url_slide: "#"
-
 
   - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak"
     title: "Multidimensional Analysis of Gender and Age Differences in News Consumption"
@@ -13,12 +12,12 @@
     url_pdf: "https://www.dropbox.com/s/h9bzd2bbta5w6lq/%28p%29%2020160930-cj2016-daum-news.pdf?dl=0"
     url_slide: "#"
 
-  - authors: "<span style=\"color:white;\">Jisun An</span>, Ingmar Weber"
+  - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Ingmar Weber"
     title: "Trend Spotting and Demographics in Twitter"
     conference: "ICCSS 2016, Evanston, IL, USA"
     date: "October 2016"
-
-  - authors: "Soo-Yong Shin, Dong-Woo Seo, <span style=\"color:white;\">Jisun An</span> Haewoon Kwak, Sung-Han Kim, Jin Gwack, Min-Woo Jo"
+    
+  - authors: "Soo-Yong Shin, Dong-Woo Seo, <span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak, Sung-Han Kim, Jin Gwack, Min-Woo Jo"
     title: "High correlation of Middle East respiratory syndrome spread with Google search and Twitter trends in Korea"
     conference: "Scientific Reports; 6:32920"
     date: "September 2016"

@@ -1,11 +1,9 @@
-  
-  - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, Bernard J. Jansen"
+  - authors: <span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak, Bernard J. Jansen"
     title: "Automatic Generation of Personas Using YouTube Social Media Data"
     conference: "HICSS 2017, Hawaii, USA"
     date: "January 2017"
     url_pdf: "https://www.dropbox.com/s/64iq9l4yhh6apnh/%28p%29%2020170104-hicss2017-apg.pdf?dl=0"
     url_slide: "#"
-
 
   - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak"
     title: "Multidimensional Analysis of Gender and Age Differences in News Consumption"
@@ -14,34 +12,33 @@
     url_pdf: "https://www.dropbox.com/s/h9bzd2bbta5w6lq/%28p%29%2020160930-cj2016-daum-news.pdf?dl=0"
     url_slide: "#"
 
-  - authors: "<span style=\"color:white;\">Jisun An</span>, Ingmar Weber"
+  - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Ingmar Weber"
     title: "Trend Spotting and Demographics in Twitter"
     conference: "ICCSS 2016, Evanston, IL, USA"
     date: "October 2016"
 
-  - authors: "Soo-Yong Shin, Dong-Woo Seo, <span style=\"color:white;\">Jisun An</span> Haewoon Kwak, Sung-Han Kim, Jin Gwack, Min-Woo Jo"
+  - authors: "Soo-Yong Shin, Dong-Woo Seo, <span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak, Sung-Han Kim, Jin Gwack, Min-Woo Jo"
     title: "High correlation of Middle East respiratory syndrome spread with Google search and Twitter trends in Korea"
     conference: "Scientific Reports; 6:32920"
     date: "September 2016"
     url_pdf: "https://www.dropbox.com/s/pdi6rjkzwxfrho7/%28p%29%2020160801-scientificreport-mers.pdf?dl=0"
     url_slide: "#"
 
-  - authors: "Haewoon Kwak, <span style=\"color:white;\">Jisun An</span>"
+  - authors: "Haewoon Kwak, <span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>"
     title: "Revealing the Hidden Patterns of News Photos: Analysis of Millions of News Photos through GDELT and Deep Learning-based Vision APIs"
     conference: "First Workshop on NEws and publiC Opinion, co-located with AAAI ICWSM 2016, Cologne, Germany"
     date: "May 2016"
     url_pdf: "https://www.dropbox.com/s/f6s2dzqsap0crpf/%28p%29%2020160517-neco2016-vgkg-vision.pdf?dl=0"
     url_slide: "#"
 
-  - authors: "<span style=\"color:white;\">Jisun An</span>, Ingmar Weber"
+  - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Ingmar Weber"
     title: "#greysanatomy vs. #yankees: Demographics and Hashtag Use on Twitter"
     conference: "AAAI ICWSM 2016, Cologne, Germany"
     date: "May 2016"
     url_pdf: "https://www.dropbox.com/s/rlwrqafnbqt2mah/%28p%29%2020160517-icwsm2016-poster-demographics.pdf?dl=0"
     url_slide: "https://www.dropbox.com/s/m9g5lcrrdok0sl6/16-05-11-icwsm2016-poster.pdf?dl=0"
 
-
-  - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, Yelena Mejova, Sonia Alonso Saenz De Oger"
+  - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak, Yelena Mejova, Sonia Alonso Saenz De Oger"
     title: "Are you Charlie or Ahmed? Cultural pluralism in Charlie Hebdo response on Twitter"
     conference: "AAAI ICWSM 2016, Cologne, Germany"
     date: "May 2016"
@@ -115,7 +112,6 @@
     date: "May 2013"
     url_pdf: "https://dl.dropboxusercontent.com/u/2166050/%28p%29%20201305-www-2013-poster.pdf"
     url_poster: "https://dl.dropboxusercontent.com/u/2166050/13-05-17-www2013-poster-v2.pdf"
-
 
   - authors: "<span style=\"color:white;\">Jisun An</span>, Daniele Quercia, Meeyoung Cha, Krishna Gummadi, Jon Crowcroft"
     title: "Traditional media seen from social media"
