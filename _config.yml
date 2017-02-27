@@ -33,7 +33,7 @@ force-https: False
 lang: "en"
 author: "Jisun An"
 title: "{ Jisun An }"
-description: "Website of Jisun An, a Postdoctoral Research at Qatar Computing Research Institute."
+description: "Website of Jisun An, a Scientist at Qatar Computing Research Institute."
 keywords: "jisun"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
@@ -58,7 +58,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Postdoctoral researcher at Qatar Computing Research Institute, HBKU"
+  - text: "Scientist at Qatar Computing Research Institute, HBKU"
   - text: "News and Social media, Public Opinion"
   - text: "Computational Journalism"
   - text: "Computational Social Science"
