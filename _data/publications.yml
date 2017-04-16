@@ -1,5 +1,23 @@
-   
+  - authors: "Julio Reis, Haewoon Kwak, <span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Johnnatan Messias, and Fabrıcio Benevenuto"
+    title: "Demographics of News Sharing in Twitter"
+    conference: "ACM HyperText 2017, Prague, Czech Republic"
+    date: "July 2017"
+    url_pdf: "#"
+    url_slide: "#"
 
+  - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak"
+    title: "Data-driven Approach to Measuring the Level of Press Freedom Using Media Attention Diversity from Unfiltered News"
+    conference: "Second Workshop on NEws and publiC Opinion, co-located with AAAI ICWSM 2017, Montreal, Canada"
+    date: "May 2017"
+    url_pdf: "http://arxiv.org/abs/1704.01422"
+    url_slide: "#"
+
+  - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak"
+    title: "What Gets Media Attention and How Media Attention Evolves Over Time - Large-scale Empirical Evidence from 196 Countries"
+    conference: "AAAI ICWSM 2017, Montreal, Canada"
+    date: "May 2017"
+    url_pdf: "http://arxiv.org/abs/1704.01425"
+    url_slide: "#"
 
   - authors: <span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak, Bernard J. Jansen"
     title: "Automatic Generation of Personas Using YouTube Social Media Data"
