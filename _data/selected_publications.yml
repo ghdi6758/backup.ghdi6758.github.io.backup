@@ -1,13 +1,14 @@
-    - authors: "<span style=\"color:white;\">Jisun An</span> and Haewoon"
+
+  - authors: "<span style=\"color:white;\">Jisun An</span> and Haewoon"
     title: "Multidimensional Analysis of the News Consumption of Different Demographic Groups on a Nationwide Scale"
-    conference: "International Conference on Social Informatics 2017, Oxford, UK"
+    conference: "SocInfo 2017, Oxford, UK"
     date: "Sep 2017" 
     url_pdf: "#"
     url_slide: "#"
-  
+
   - authors: "<span style=\"color:white;\">Jisun An</span> and Haewoon"
     title: "Multiplex Media Attention and Disregard Network among 129 Countries"
-    conference: "IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (Multidisciplinary Track), Sydney, Australia"
+    conference: "IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM Multidisciplinary Track), Sydney, Australia"
     date: "Aug 2017" 
     url_pdf: "#"
     url_slide: "#"
@@ -20,22 +21,8 @@
     url_slide: "#"
 
   - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak"
-    title: "Data-driven Approach to Measuring the Level of Press Freedom Using Media Attention Diversity from Unfiltered News"
-    conference: "Second Workshop on NEws and publiC Opinion, co-located with AAAI ICWSM 2017, Montreal, Canada"
-    date: "May 2017"
-    url_pdf: "http://arxiv.org/abs/1704.01422"
-    url_slide: "#"
-
-  - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak"
     title: "What Gets Media Attention and How Media Attention Evolves Over Time - Large-scale Empirical Evidence from 196 Countries"
     conference: "AAAI ICWSM 2017, Montreal, Canada"
     date: "May 2017"
     url_pdf: "http://arxiv.org/abs/1704.01425"
-    url_slide: "#"
-
-  - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak, Bernard J. Jansen"
-    title: "Automatic Generation of Personas Using YouTube Social Media Data"
-    conference: "HICSS 2017, Hawaii, USA"
-    date: "January 2017"
-    url_pdf: "https://www.dropbox.com/s/64iq9l4yhh6apnh/%28p%29%2020170104-hicss2017-apg.pdf?dl=0"
     url_slide: "#"
