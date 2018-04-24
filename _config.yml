@@ -142,7 +142,7 @@ timeline-img: "/img/jisun-12-06-26.jpg"
 # Contact #
 ###########
 
-email: "jan@qf.org.qa"
+email: "jan@hbku.edu.qa"
 
 ##################
 # Social Buttons #
@@ -177,7 +177,7 @@ social:
 pages_list:
   About: 'about'
   Publications: 'selected_publications'
-  Timeline: 'timeline'
+  # Timeline: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
@@ -193,5 +193,5 @@ paginate_path: "blog/page:num/"
 sass:
   style: compressed
 
-gems:
+plugins:
   - jekyll-paginate
