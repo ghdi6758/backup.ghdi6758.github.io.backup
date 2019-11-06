@@ -24,11 +24,5 @@
     conference: "AAAI ICWSM 2019, Cologne, Germany"
     date: "July 2019" 
     url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20190612_icwsm2019_political_communication_reddit.pdf"
-    
 
-  - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, and Yong-Yeol Ahn"
-    title: "SemAxis: A Lightweight Framework to Characterize the Manifold of Domain-Specific Word Semantics Beyond Sentiment"
-    conference: "ACL 2018, Melbourne, Australia"
-    date: "Jul 2018" 
-    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20180715_acl2018_semaxis.pdf"
 
