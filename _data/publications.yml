@@ -1,16 +1,90 @@
+
+  - authors: "Kholoud Aldous, <span style=\"color:white;\">Jisun An</span>, Bernard J. Jansen"
+    title: "Stylistic Features Usage: Similarities and Differences Using Multiple Social Networks"
+    conference: "SocInfo"
+    date: "Nov 2019" 
+    # url_pdf: "#"
+
+  - authors: "Kholoud Aldous, <span style=\"color:white;\">Jisun An</span>, Bernard J. Jansen"
+    title: "Predicting Audience Engagement Across Social Media Platforms in the News Domain"
+    conference: "SocInfo"
+    date: "Nov 2019" 
+    # url_pdf: "#"
+
+  - authors: "Yifan Zhang, Giovanni Da San Martino, Alberto Barrón-Cedeño, Salvatore Romeo, <span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, Todor Staykovski, Israa Jaradat, Georgi Karadzhov, Ramy Baly, Kareem Darwish, James Glass, Preslav Nakov"
+    title: "Tanbih: Get To Know What You Are Reading"
+    conference: "EMNLP"
+    date: "Nov 2019" 
+    # url_pdf: "#"
+
+
+  - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon Kwak"
+    title: "Gender and Racial Diversity in Commercial Brands' Advertising Images on Social Media"
+    conference: "SocInfo"
+    date: "Nov 2019" 
+    # url_pdf: "#"
+
+  - authors: "Kholoud Aldous, <span style=\"color:white;\">Jisun An</span>, Bernard J. Jansen"
+    title: "View, Like, Comment, Post: Analyzing User Engagement by Topic at 4 Levels across 5 Social Media Platforms for 53 News Organizations"
+    conference: "ICWSM"
+    date: "July 2019" 
+    # url_pdf: "#"
+
+  - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, Oliver Posegga, Andreas Jungherr"
+    title: "Political Discussions in Homogeneous and Cross-Cutting Communication Spaces"
+    conference: "ICWSM"
+    date: "July 2019" 
+    # url_pdf: "#"
+
+  - authors: "Kholoud Aldous, <span style=\"color:white;\">Jisun An</span>, Bernard J. Jansen"
+    title: "The Challenges of Creating Engaging Content: Results from a Focus Group Study of a Popular News Media Organization"
+    conference: "CHI"
+    date: "Apr 2019" 
+    # url_pdf: "#"
+
+  - authors: "Arkaitz Zubiaga, Bahareh Heravi, <span style=\"color:white;\">Jisun An</span>, Haewoon Kwak"
+    title: "Social media mining for journalism"
+    conference: "Online Information Review"
+    date: "Feb 2019" 
+    # url_pdf: "#"
+
+  - authors: "Andreas Jungherr, Oliver Posegga, <span style=\"color:white;\">Jisun An</span>"
+    title: "Discursive Power in Contemporary Media Systems: A Comparative Framework"
+    conference: "IJPP (The International Journal of Press/Politics)"
+    date: "April 2019" 
+    # url_pdf: "#"
+
+
+  - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, Soon-­Gyo Jung, Joni Salminen, M. Admad, Bernard J. Jansen"
+    title: "Customer segmentation using online platforms: isolating behavioral and demographic segments for persona creation via aggregated user data"
+    conference: "SNAM"
+    date: "Dec 2018" 
+    # url_pdf: "#"
+    # url_slide: "#"
+
+  - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, Soon-­Gyo Jung, Joni Salminen, M. Admad, Bernard J. Jansen"
+    title: "Imaginary People Representing Real Numbers: Generating Personas from Online Social Media Data"
+    conference: "TWEB"
+    date: "Nov 2018" 
+    # url_pdf: "#"
+
+  - authors: "<span style=\"color:white;\">Jisun An</span>, Ingmar Weber"
+    title: "Diversity in Online Advertising: A Case Study of 69 Brands on Social Media"
+    conference: "SocInfo 2018, Saint Petersburg, Russia"
+    date: "Sep 2018" 
+    # url_pdf: "#"
+
   - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, and Yong-Yeol Ahn"
     title: "SemAxis: A Lightweight Framework to Characterize the Manifold of Domain-Specific Word Semantics Beyond Sentiment"
     conference: "ACL 2018, Melbourne, Australia"
     date: "Jul 2018" 
     # url_pdf: "#"
-    # url_slide: "#"
 
   - authors: "Soon-­Gyo Jung, <span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, Joni Salminen, Bernard J. Jansen"
     title: "Assessing the Accuracy of Four Popular Face Recognition Tools for Inferring Gender, Age, and Race"
     conference: "ICWSM 2018, Stanford, CA, USA"
     date: "Jun 2018" 
     # url_pdf: "#"
-    # url_slide: "#"
 
   - authors: "Joni Salminen, Hind Almerekhi, Milica Milenkovic, Soon-­gyo Jung, <span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, and  Bernard J. Jansen"
     title: "Anatomy of Online Hate: Developing a Taxonomy and Machine Learning Models for Identifying and Classifying Hate in Online News Media"
