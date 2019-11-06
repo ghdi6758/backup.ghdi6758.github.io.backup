@@ -1,32 +1,34 @@
 
+  - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon Kwak"
+    title: "Gender and Racial Diversity in Commercial Brands' Advertising Images on Social Media"
+    conference: "SocInfo 2019, Doha, Qatar"
+    date: "Nov 2019" 
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20191112_socinfo2019_genrder_race_diversity.pdf"    
+
+  - authors: "Yifan Zhang, Giovanni Da San Martino, Alberto Barrón-Cedeño, Salvatore Romeo, <span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, Todor Staykovski, Israa Jaradat, Georgi Karadzhov, Ramy Baly, Kareem Darwish, James Glass, Preslav Nakov"
+    title: "Tanbih: Get To Know What You Are Reading"
+    conference: "EMNLP 2019, Hong Kong, China"
+    date: "Nov 2019" 
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20191104_emnlp2019_tanbih_demo.pdf"
+
+
+  - authors: "Kholoud Aldous, <span style=\"color:white;\">Jisun An</span>, Bernard J. Jansen"
+    title: "View, Like, Comment, Post: Analyzing User Engagement by Topic at 4 Levels across 5 Social Media Platforms for 53 News Organizations"
+    conference: "AAAI ICWSM 2019, Cologne, Germany"
+    date: "July 2019" 
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20190612_icwsm2019_cross_platform_topics.pdf"
+
+
+  - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, Oliver Posegga, Andreas Jungherr"
+    title: "Political Discussions in Homogeneous and Cross-Cutting Communication Spaces"
+    conference: "AAAI ICWSM 2019, Cologne, Germany"
+    date: "July 2019" 
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20190612_icwsm2019_political_communication_reddit.pdf"
+    
+
   - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, and Yong-Yeol Ahn"
     title: "SemAxis: A Lightweight Framework to Characterize the Manifold of Domain-Specific Word Semantics Beyond Sentiment"
     conference: "ACL 2018, Melbourne, Australia"
     date: "Jul 2018" 
-    # url_pdf: "#"
-    # url_slide: "#"
-
-  - authors: "Soon-­Gyo Jung, <span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, Joni Salminen, Bernard J. Jansen"
-    title: "Assessing the Accuracy of Four Popular Face Recognition Tools for Inferring Gender, Age, and Race"
-    conference: "ICWSM 2018, Stanford, CA, USA"
-    date: "Jun 2018" 
-    # url_pdf: "#"
-    # url_slide: "#"
-
-  - authors: "Joni Salminen, Hind Almerekhi, Milica Milenkovic, Soon-­gyo Jung, <span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, and  Bernard J. Jansen"
-    title: "Anatomy of Online Hate: Developing a Taxonomy and Machine Learning Models for Identifying and Classifying Hate in Online News Media"
-    conference: "ICWSM 2018, Stanford, CA, USA"
-    date: "Jun 2018" 
-
-  - authors: "Haewoon Kwak, <span style=\"color:white;\">Jisun An</span>, Joni Salminen, Soon-Gyo Jung, and Bernard J. Jansen"
-    title: "What We Read, What We Search: Media Attention and Public Attention Among 193 Countries"
-    conference: "WWW 2018, Lyon, France"
-    date: "Apr 2018" 
-    url_pdf: "https://arxiv.org/pdf/1802.06437.pdf"
-
-  - authors: "Joni Salminen, Lene Nielsen, <span style=\"color:white;\">Jisun An</span>, Soon-Gyo Jung, Haewoon Kwak, and Bernard J. Jansen"
-    title: "Is More Better?: Impact of MultiplePhotos on Perception of Persona Profiles"
-    conference: "CHI 2018, New Brunswick, NJ, USA"
-    date: "Apr 2018" 
-    url_pdf: "http://www.bernardjjansen.com/uploads/2/4/1/8/24188166/paper317.pdf"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20180715_acl2018_semaxis.pdf"
 
