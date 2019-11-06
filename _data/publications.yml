@@ -1,103 +1,114 @@
 
   - authors: "Kholoud Aldous, <span style=\"color:white;\">Jisun An</span>, Bernard J. Jansen"
     title: "Stylistic Features Usage: Similarities and Differences Using Multiple Social Networks"
-    conference: "SocInfo"
+    conference: "SocInfo 2019, Doha, Qatar"
     date: "Nov 2019" 
-    # url_pdf: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20191112_socinfo2019_style_based_prediction.pdf"
+
 
   - authors: "Kholoud Aldous, <span style=\"color:white;\">Jisun An</span>, Bernard J. Jansen"
     title: "Predicting Audience Engagement Across Social Media Platforms in the News Domain"
-    conference: "SocInfo"
+    conference: "SocInfo 2019, Doha, Qatar"
     date: "Nov 2019" 
-    # url_pdf: "#"
-
-  - authors: "Yifan Zhang, Giovanni Da San Martino, Alberto Barrón-Cedeño, Salvatore Romeo, <span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, Todor Staykovski, Israa Jaradat, Georgi Karadzhov, Ramy Baly, Kareem Darwish, James Glass, Preslav Nakov"
-    title: "Tanbih: Get To Know What You Are Reading"
-    conference: "EMNLP"
-    date: "Nov 2019" 
-    # url_pdf: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20191112_socinfo2019_cross_platform_prediction.pdf"
 
 
   - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon Kwak"
     title: "Gender and Racial Diversity in Commercial Brands' Advertising Images on Social Media"
-    conference: "SocInfo"
+    conference: "SocInfo 2019, Doha, Qatar"
     date: "Nov 2019" 
-    # url_pdf: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20191112_socinfo2019_genrder_race_diversity.pdf"    
+
+  - authors: "Yifan Zhang, Giovanni Da San Martino, Alberto Barrón-Cedeño, Salvatore Romeo, <span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, Todor Staykovski, Israa Jaradat, Georgi Karadzhov, Ramy Baly, Kareem Darwish, James Glass, Preslav Nakov"
+    title: "Tanbih: Get To Know What You Are Reading"
+    conference: "EMNLP 2019, Hong Kong, China"
+    date: "Nov 2019" 
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20191104_emnlp2019_tanbih_demo.pdf"
+
 
   - authors: "Kholoud Aldous, <span style=\"color:white;\">Jisun An</span>, Bernard J. Jansen"
     title: "View, Like, Comment, Post: Analyzing User Engagement by Topic at 4 Levels across 5 Social Media Platforms for 53 News Organizations"
-    conference: "ICWSM"
+    conference: "AAAI ICWSM 2019, Cologne, Germany"
     date: "July 2019" 
-    # url_pdf: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20190612_icwsm2019_cross_platform_topics.pdf"
+
 
   - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, Oliver Posegga, Andreas Jungherr"
     title: "Political Discussions in Homogeneous and Cross-Cutting Communication Spaces"
-    conference: "ICWSM"
+    conference: "AAAI ICWSM 2019, Cologne, Germany"
     date: "July 2019" 
-    # url_pdf: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20190612_icwsm2019_political_communication_reddit.pdf"
+
 
   - authors: "Kholoud Aldous, <span style=\"color:white;\">Jisun An</span>, Bernard J. Jansen"
     title: "The Challenges of Creating Engaging Content: Results from a Focus Group Study of a Popular News Media Organization"
-    conference: "CHI"
+    conference: "CHI 2019, Glasgow, UK"
     date: "Apr 2019" 
-    # url_pdf: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20190505_chi2019_LBW_aj_interview.pdf"
+
 
   - authors: "Arkaitz Zubiaga, Bahareh Heravi, <span style=\"color:white;\">Jisun An</span>, Haewoon Kwak"
     title: "Social media mining for journalism"
     conference: "Online Information Review"
     date: "Feb 2019" 
-    # url_pdf: "#"
+    # url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/.pdf"
+
 
   - authors: "Andreas Jungherr, Oliver Posegga, <span style=\"color:white;\">Jisun An</span>"
     title: "Discursive Power in Contemporary Media Systems: A Comparative Framework"
-    conference: "IJPP (The International Journal of Press/Politics)"
+    conference: "The International Journal of Press/Politics (IJPP)"
     date: "April 2019" 
-    # url_pdf: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20190403_ijpp_discursive_power.pdf"
 
 
   - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, Soon-­Gyo Jung, Joni Salminen, M. Admad, Bernard J. Jansen"
     title: "Customer segmentation using online platforms: isolating behavioral and demographic segments for persona creation via aggregated user data"
-    conference: "SNAM"
+    conference: "Social Network Analysis and Mining (SNAM) 8:1"
     date: "Dec 2018" 
-    # url_pdf: "#"
-    # url_slide: "#"
+    # url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/.pdf"
+
 
   - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, Soon-­Gyo Jung, Joni Salminen, M. Admad, Bernard J. Jansen"
     title: "Imaginary People Representing Real Numbers: Generating Personas from Online Social Media Data"
-    conference: "TWEB"
+    conference: "ACM Transactions on the Web (TWEB) 12:4"
     date: "Nov 2018" 
-    # url_pdf: "#"
+    # url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/.pdf"
+
 
   - authors: "<span style=\"color:white;\">Jisun An</span>, Ingmar Weber"
     title: "Diversity in Online Advertising: A Case Study of 69 Brands on Social Media"
     conference: "SocInfo 2018, Saint Petersburg, Russia"
     date: "Sep 2018" 
-    # url_pdf: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20180925_socinfo2018_diversity_in_ads.pdf"
+
 
   - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, and Yong-Yeol Ahn"
     title: "SemAxis: A Lightweight Framework to Characterize the Manifold of Domain-Specific Word Semantics Beyond Sentiment"
     conference: "ACL 2018, Melbourne, Australia"
     date: "Jul 2018" 
-    # url_pdf: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20180715_acl2018_semaxis.pdf"
+
 
   - authors: "Soon-­Gyo Jung, <span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, Joni Salminen, Bernard J. Jansen"
     title: "Assessing the Accuracy of Four Popular Face Recognition Tools for Inferring Gender, Age, and Race"
-    conference: "ICWSM 2018, Stanford, CA, USA"
+    conference: "AAAI ICWSM 2018, Stanford, CA, USA"
     date: "Jun 2018" 
-    # url_pdf: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20180625_icwsm2018_face_detection_tool.pdf"
+
 
   - authors: "Joni Salminen, Hind Almerekhi, Milica Milenkovic, Soon-­gyo Jung, <span style=\"color:white;\">Jisun An</span>, Haewoon Kwak, and  Bernard J. Jansen"
     title: "Anatomy of Online Hate: Developing a Taxonomy and Machine Learning Models for Identifying and Classifying Hate in Online News Media"
-    conference: "ICWSM 2018, Stanford, CA, USA"
+    conference: "AAAI ICWSM 2018, Stanford, CA, USA"
     date: "Jun 2018" 
-    # url_pdf: "#"
-    # url_slide: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20180625_icwsm2018_hate_taxonomy.pdf"
+
 
   - authors: "Haewoon Kwak, <span style=\"color:white;\">Jisun An</span>, Joni Salminen, Soon-Gyo Jung, and Bernard J. Jansen"
     title: "What We Read, What We Search: Media Attention and Public Attention Among 193 Countries"
-    conference: "WWW 2018, Lyon, France"
+    conference: "TheWebConf (WWW) 2018, Lyon, France"
     date: "Apr 2018" 
-    url_pdf: "https://arxiv.org/pdf/1802.06437.pdf"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20180424_www2018_media_public_attention.pdf"
+
 
   - authors: "Joni Salminen, Lene Nielsen, <span style=\"color:white;\">Jisun An</span>, Soon-Gyo Jung, Haewoon Kwak, and Bernard J. Jansen"
     title: "Is More Better?: Impact of MultiplePhotos on Perception of Persona Profiles"
@@ -105,70 +116,76 @@
     date: "Apr 2018" 
     url_pdf: "http://www.bernardjjansen.com/uploads/2/4/1/8/24188166/paper317.pdf"
 
+
   - authors: "Joni Salminen, Bernard J. Jansen, <span style=\"color:white;\">Jisun An</span>, Soon-Gyo Jung, Lene Nielsen, and Haewoon Kwak"
     title: "Fixation and Confusion: Investigating Eye-tracking Participants' Exposure to Information in Personas"
     conference: "CHIIR 2018, New Brunswick, NJ, USA"
     date: "Mar 2018" 
     url_pdf: "https://dl.acm.org/citation.cfm?id=3176391"
+
   
   - authors: "<span style=\"color:white;\">Jisun An</span> and Haewoon"
     title: "Multidimensional Analysis of the News Consumption of Different Demographic Groups on a Nationwide Scale"
     conference: "SocInfo 2017, Oxford, UK"
     date: "Sep 2017" 
-    url_pdf: "https://www.dropbox.com/s/necwkuih2wo0f3s/%28p%29%2020170913-socinfo2017-daumnews.pdf?dl=0"
-    url_slide: "https://www.dropbox.com/s/uow857zhbwqpir6/17-09-15-socinfo17-daum-news.pdf?dl=0"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20170913_socinfo2017_daumnews.pdf"
+
   
   - authors: "<span style=\"color:white;\">Jisun An</span>, Hassan Abdediti, and Haewoon Kwak"
     title: "Convergence of Media Attention Across 129 Countries"
     conference: "SocInfo 2017, Oxford, UK"
     date: "Sep 2017"
-    url_pdf: "https://www.dropbox.com/s/nwyf9fusq380l08/%28p%29%2020170913-socinfo2017-convergence.pdf?dl=0"
-    url_slide: "https://www.dropbox.com/s/jidhvhpzhikspga/17-09-11-socInfo17-unfiltered.news.pdf?dl=0"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20170913_socinfo2017_convergence.pdf"
+
 
   - authors: "<span style=\"color:white;\">Jisun An</span> and Haewoon"
     title: "Multiplex Media Attention and Disregard Network among 129 Countries"
-    conference: "IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM Multidisciplinary Track), Sydney, Australia"
+    conference: "IEEE/ACM ASONAM 2017, Sydney, Australia"
     date: "Aug 2017" 
-    url_pdf: "https://www.dropbox.com/s/ypxo5qkgvj0byp6/%28p%29%2020170802-asonam2017-unfilterednews.pdf?dl=0"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20170802_asonam2017_unfilterednews.pdf"
+
 
   - authors: "<span style=\"color:white;\">Jisun An</span>, Haewoon, and     Bernard J. Jansen"
     title: "Personas for Content Creators via DecomposedAggregate Audience Statistics"
     conference: "IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), Sydney, Australia"
     date: "Aug 2017" 
-    url_pdf: "https://www.dropbox.com/s/rcroqtwxpehjsg7/%28p%29%2020170802-asonam2017-apg.pdf?dl=0"
-    url_slide: "https://www.dropbox.com/s/4xnaemuv9f5ijfc/17-07-31-ASONAM-apg-3min-presentation.pdf?dl=0"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20170802_asonam2017_apg.pdf"
+
 
   - authors: "Julio Reis, Haewoon Kwak, <span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Johnnatan Messias, and Fabrıcio Benevenuto"
     title: "Demographics of News Sharing in Twitter"
     conference: "ACM HyperText 2017, Prague, Czech Republic"
     date: "July 2017"
-    url_pdf: "https://www.dropbox.com/s/c5yrpq0zpjbqt0d/%28p%29%2020170704-hypertext2017-demographics-of-news-sharing.pdf?dl=0"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20170704_hypertext2017_demographics_of_news_sharing.pdf"
+
 
   - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak"
     title: "Data-driven Approach to Measuring the Level of Press Freedom Using Media Attention Diversity from Unfiltered News"
     conference: "Second Workshop on NEws and publiC Opinion, co-located with AAAI ICWSM 2017, Montreal, Canada"
     date: "May 2017"
     url_pdf: "http://arxiv.org/abs/1704.01422"
-    url_slide: "https://www.dropbox.com/s/vcs7hdig2v1z3g0/17-05-15-neco17-pfi-topic-diversity.pdf?dl=0"
+    url_slide: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20170515_neco2017_topic_diversity_PFI.pdf"
+
 
   - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak"
     title: "What Gets Media Attention and How Media Attention Evolves Over Time - Large-scale Empirical Evidence from 196 Countries"
     conference: "AAAI ICWSM 2017, Montreal, Canada"
     date: "May 2017"
-    url_pdf: "http://arxiv.org/abs/1704.01425"
-    url_slide: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20170516_icwsm2017_media_attention.pdf"
+
 
   - authors: <span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak, Bernard J. Jansen"
     title: "Automatic Generation of Personas Using YouTube Social Media Data"
     conference: "HICSS 2017, Hawaii, USA"
     date: "January 2017"
-    url_pdf: "https://www.dropbox.com/s/64iq9l4yhh6apnh/%28p%29%2020170104-hicss2017-apg.pdf?dl=0"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20170104_hicss2017_apg.pdf"
+
 
   - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak"
     title: "Multidimensional Analysis of Gender and Age Differences in News Consumption"
     conference: "C+J Symposium 2016, Palo Alto, CA, USA"
     date: "September 2016"
-    url_pdf: "https://www.dropbox.com/s/h9bzd2bbta5w6lq/%28p%29%2020160930-cj2016-daum-news.pdf?dl=0"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20160930_cj2016_daum_news.pdf"
 
   - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Ingmar Weber"
     title: "Trend Spotting and Demographics in Twitter"
@@ -179,121 +196,125 @@
     title: "High correlation of Middle East respiratory syndrome spread with Google search and Twitter trends in Korea"
     conference: "Scientific Reports; 6:32920"
     date: "September 2016"
-    url_pdf: "https://www.dropbox.com/s/pdi6rjkzwxfrho7/%28p%29%2020160801-scientificreport-mers.pdf?dl=0"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20160801_scientificreport_mers.pdf"
+
 
   - authors: "Haewoon Kwak, <span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>"
     title: "Revealing the Hidden Patterns of News Photos: Analysis of Millions of News Photos through GDELT and Deep Learning-based Vision APIs"
     conference: "First Workshop on NEws and publiC Opinion, co-located with AAAI ICWSM 2016, Cologne, Germany"
     date: "May 2016"
-    url_pdf: "https://www.dropbox.com/s/f6s2dzqsap0crpf/%28p%29%2020160517-neco2016-vgkg-vision.pdf?dl=0"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20160517_neco2016_vgkg_vision.pdf"
 
   - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Ingmar Weber"
     title: "#greysanatomy vs. #yankees: Demographics and Hashtag Use on Twitter"
     conference: "AAAI ICWSM 2016, Cologne, Germany"
     date: "May 2016"
-    url_pdf: "https://www.dropbox.com/s/rlwrqafnbqt2mah/%28p%29%2020160517-icwsm2016-poster-demographics.pdf?dl=0"
-    url_slide: "https://www.dropbox.com/s/m9g5lcrrdok0sl6/16-05-11-icwsm2016-poster.pdf?dl=0"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20160517_icwsm2016_poster_demographics.pdf"
 
   - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak, Yelena Mejova, Sonia Alonso Saenz De Oger"
     title: "Are you Charlie or Ahmed? Cultural pluralism in Charlie Hebdo response on Twitter"
     conference: "AAAI ICWSM 2016, Cologne, Germany"
     date: "May 2016"
-    url_pdf: "https://www.dropbox.com/s/89qgngxl53wpcl0/%28p%29%2020160517-chi2016-charliehebdo.pdf?dl=0"
-    url_slide: "http://www.slideshare.net/sunny0221/16-0519icwsmcharliehebdov2" 
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20160517_chi2016_charliehebdo.pdf"
+
 
   - authors: "<span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span> and Ingmar Weber"
     title: "Whom Should We Sense in Social Sensing - Analyzing Which Users Work Best for Social Media Now-Casting"
     conference: "EPJ Data Science journal 4.22"
     date: "Nov 2015"
-    url_pdf: "http://www.epjdatascience.com/content/pdf/s13688-015-0058-9.pdf"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20151130_epj_nowcasating.pdf"
+
 
   - authors: "Sofiane Abbar, <span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>, Haewoon Kwak, Yacine Messaoui, and Javier Borge-Holthoefer"
     title: "Consumers and Suppliers: Attention Asymmetries. A Case Study of Aljazeera’s News Coverage and Comments"
     conference: "C+J Symposium 2015, New York, USA"
     date: "Oct 2015"
-    url_pdf: "http://cj2015.brown.columbia.edu/papers/consumers-and-suppliers.pdf"
-    url_slide: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20151002_cj2015_consumer_supplier.pdf"
+
 
   - authors: "Julio Reis, Fabrcio Benevenuto, Pedro Olmo, Raquel Prates, Haewoon Kwak, and <span style=\"color:white;\"><span style=\"color:white;\">Jisun An</span></span>"
     title: "Breaking the News: First Impressions Matter on Online News"
     conference: "ICWSM 2015, Oxford, UK"
     date: "May 2015"
-    url_pdf: "http://arxiv.org/pdf/1503.07921"
-    url_slide: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20150606_icwsm2015_badnews.pdf"
+
 
   - authors: "Haewoon Kwak and <span style=\"color:white;\">Jisun An</span>"
     title: "A First Look at Global News Coverage of Disasters By Using the GDELT Dataset"
     conference: "SocInfo 2014, Barcelona, Spain"
     date: "Nov 2014" 
-    url_pdf: "#"
-    url_slide: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20141110_socinfo2014_newsgeography.pdf"
+
 
   - authors: "Haewoon Kwak and <span style=\"color:white;\">Jisun An</span>"
     title: "Understanding News Geography and Major Determinants of Global News Coverage of Disasters"
     conference: "C+J Symposium 2014,  New York, USA"
     date: "Oct 2014"
-    url_pdf: "http://arxiv.org/abs/1410.3710"
-    url_slide: "http://www.slideshare.net/sunny0221/14-1017-cjsymposium2014v3"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20141023_cjsymposium_newsgeography.pdf"
 
-  - authors: "<span style=\"color:white;\">Jisun An</span>, Daniele Quercia, Meeyoung Cha, Krishna Gummadi, Jon Crowcroft"
-    title: "Sharing political news: the balancing act of intimacy and socialization in selective exposure"
-    conference: "EPJ Data Science Journal"
-    date: "July 2014"
-    url_pdf: "http://link.springer.com/article/10.1140/epjds/s13688-014-0012-2"
 
   - authors: "<span style=\"color:white;\">Jisun An</span>, Daniele Quercia, Jon Crowcroft"
     title: "Partisan Sharing: Facebook Evidence and Societal Consequences"
     conference: "ACM COSN 2014, Dublin, Ireland"
     date: "Oct 2014"
-    url_pdf: "http://arxiv.org/abs/1409.7254"
-    url_slide: "http://www.slideshare.net/sunny0221/about-partisan-sharing-at-cosn-2014"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20141001_cosn2014_partisan_sharing.pdf"
+
+
+  - authors: "<span style=\"color:white;\">Jisun An</span>, Daniele Quercia, Meeyoung Cha, Krishna Gummadi, Jon Crowcroft"
+    title: "Sharing political news: the balancing act of intimacy and socialization in selective exposure"
+    conference: "EPJ Data Science Journal"
+    date: "July 2014"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20140822_epj2014_pons.pdf"
+
 
   - authors: "<span style=\"color:white;\">Jisun An</span>, Daniele Quercia, Jon Crowcroft"
     title: "Recommending Investors for Crowdfunding Projects"
     conference: "WWW 2014, Seoul, Korea"
     date: "Apr 2014"
-    url_pdf: "http://arxiv.org/abs/1409.7489"
-    url_slide: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20140410_www2014_kickstarter.pdf"
+
 
   - authors: "Fabio Pezzoni, <span style=\"color:white;\">Jisun An</span>, Andrea Passarella, Jon Crowcroft, Marco Conti"
     title: "Why Do I Retweet It? An Information Propagation Model for Microblogs"
     conference: "SocInfo 2013, Kyoto, Japan"
     date: "Nov 2013"
-    url_pdf: "https://dl.dropboxusercontent.com/u/2166050/%28p%29%20201311-socinfo2013.pdf"
-    url_slide: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20131125_socinfo2013_retweet.pdf"
+
 
   - authors: "<span style=\"color:white;\">Jisun An</span>, Daniele Quercia, Jon Crowcroft"
     title: "Fragmented social media: a look into selective exposure to political news"
     conference: "WWW 2013 Companion Volume, Rio de Janeiro, Brazil"
     date: "May 2013"
-    url_pdf: "https://dl.dropboxusercontent.com/u/2166050/%28p%29%20201305-www-2013-poster.pdf"
-    url_poster: "https://dl.dropboxusercontent.com/u/2166050/13-05-17-www2013-poster-v2.pdf"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20130513_www_2013_poster.pdf"
+    
 
   - authors: "<span style=\"color:white;\">Jisun An</span>, Daniele Quercia, Meeyoung Cha, Krishna Gummadi, Jon Crowcroft"
     title: "Traditional media seen from social media"
     conference: "ACM WebSci 2013, Paris, France"
     date: "May 2013"
-    url_pdf: "https://dl.dropboxusercontent.com/u/2166050/%28p%29%20201305%20websci2013_viz.pdf"
-    url_slide: "#"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20130502_websci2013_viz.pdf"
+
 
   - authors: "<span style=\"color:white;\">Jisun An</span>, Daniele Quercia, Jon Crowcroft"
     title: "Why individuals seek diverse opinions (or why they don\'t)"
     conference: "ACM WebSci 2013, Paris, France"
     date: "May 2013"
-    url_pdf: "https://dl.dropboxusercontent.com/u/2166050/%28p%29%20201305%20websci2013_diversity.pdf"
-    url_slide: "https://dl.dropboxusercontent.com/u/2166050/13-05-02-websci2013_diversity_seeking.pdf"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20130502_websci2013_diversity.pdf"
+
 
   - authors: "<span style=\"color:white;\">Jisun An</span>, Meeyoung Cha, Krishna Gummadi, Jon Crowcroft, Daniele Quercia"
     title: "Visualizing the media landscape through Twitter"
     conference: "SOCMEDNEWS 2012"
     date: "Jun 2012"
-    url_pdf: "https://dl.dropboxusercontent.com/u/2166050/%28p%29%20201206%20socmednews_2012.pdf"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20120604_socmednews2012_visualising_bias.pdf"
+
 
   - authors: "<span style=\"color:white;\">Jisun An</span>, Meeyoung Cha, Krishna Gummadi, Jon Crowcroft"
     title: "Twitter follow links reveal bicameral landscape of newspapers"
     conference: "CompleNet 2012"
     date: "Mar 2012"
-    url_pdf: "https://dl.dropboxusercontent.com/u/2166050/%28p%29%20201204%20complenet2012.pdf"
+    url_pdf: "https://github.com/ghdi6758/ghdi6758.github.io/raw/master/pdfs/20120423_complenet2012.pdf"
+
 
   - authors: "<span style=\"color:white;\">Jisun An</span>, Meeyoung Cha, Krishna Gummadi, Jon Crowcroft"
     title: "Media landscape in Twitter: A world of new conventions and political diversity"
